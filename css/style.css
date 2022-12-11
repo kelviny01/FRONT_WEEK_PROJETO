@@ -22,10 +22,6 @@
     text-decoration: none;
 }
 
-html {
-    scroll-behavior: smooth;
-}
-
 img {
     width: 100%;
 }
